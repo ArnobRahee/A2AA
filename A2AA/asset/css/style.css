@@ -23,6 +23,14 @@ body{
   height: 35px;
  
 }
+.btn{
+background-color: azure;
+}
+.btn:hover{
+  background-color: aqua;
+  margin-bottom: 5px;
+  transition: color .15s ease-in-out;
+}
 .list{
   background-color: #1F1F1F;
 }
